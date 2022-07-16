@@ -3,3 +3,10 @@
 cmake-*
 .DS_Store
 build
+
+tools/elf2uf2/boot_uf2_headers
+tools/elf2uf2/CMakeFiles
+tools/elf2uf2/cmake_install.cmake
+tools/elf2uf2/CMakeCache.txt
+tools/elf2uf2/Makefile
+tools/elf2uf2/elf2uf2
